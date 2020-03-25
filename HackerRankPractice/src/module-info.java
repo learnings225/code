@@ -1,0 +1,2 @@
+module HackerRankPractice {
+}
