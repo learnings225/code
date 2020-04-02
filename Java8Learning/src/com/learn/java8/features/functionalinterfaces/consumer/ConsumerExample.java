@@ -1,4 +1,4 @@
-package com.learn.java8.features.consumer;
+package com.learn.java8.features.functionalinterfaces.consumer;
 
 import java.util.ArrayList;
 import java.util.Arrays;
